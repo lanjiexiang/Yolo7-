@@ -1,0 +1,6 @@
+train: dataset/train/images
+val: dataset/valid/images
+
+nc: 3
+names: ['Blue_cars','Red_cars','Yellow_cars']
+
